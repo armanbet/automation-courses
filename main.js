@@ -35,7 +35,7 @@ const { addSyntheticLeadingComment } = require("typescript")
 //         instagram: 'www.instagram.com'
 //       }
 //   }
-// }
+// }asdasdasdas
 
 // let facebook = userAccount.profile.social.facebook
 
@@ -51,6 +51,7 @@ const { addSyntheticLeadingComment } = require("typescript")
 // printer(arr)
 
 let arr = [1,2,4,'hey',9,10,'wqeqweqwe', 6666666,2,'asdasdasdasdas']
+let tttt = 5555522222
 
 function printer(info) {
  
